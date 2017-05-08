@@ -1,4 +1,4 @@
-# in28Minutes Course Roadmap
+# in28Minutes Learning Roadmap
 
 ![In28MinutesCourseRoadMap-May2017.png](In28MinutesCourseRoadMap-May2017.png)
 
