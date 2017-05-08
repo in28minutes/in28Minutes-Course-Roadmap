@@ -2,6 +2,29 @@
 
 ![In28MinutesCourseRoadMap-May2017.png](In28MinutesCourseRoadMap-May2017.png)
 
+## My Views - Updated May 2017
+- Architectures are heading towards Microservices!
+- Anybody who wants to develop web applications with Java must learn Spring & Spring MVC. They are most used frameworks in the Java world today.
+- Spring Boot is the most popular framework for developing Microservices
+- Spring Cloud provides great options to developing Cloud Native Applications. How well it does is yet to be seen!
+- As a aspiration web programmer, I recommend to learn
+	- Java - Be an expert at your language. 
+	- Basics of Design - 4 Principles of Simple Design
+	- Be good at your IDE - Eclipse.
+	- Understand the build tool - Maven.
+	- Build one web application with JSP Servlets - Its great to know the basics. 
+	- Build one web application with Spring MVC.
+	- Understand Spring and Spring Boot in depth. The more you understand them the more you would love them.
+	- Build REST Services with Spring MVC.
+	- Get comfortable with Frontend Frameworks.
+- If you want to move further ahead
+	- Understand Microservices architectures! Start with Spring Cloud and AWS.
+	- Understand BigData and Analytics - Start with Hadoop.
+	- Understand Messaging - Kafka, AMQP and JMS. 
+	- Understand Functional and Reactive Programming.
+	- Understand Continuous Integration, Delivery and DevOps.
+	- Understand Containerization - Start with Docker.
+
 ## Basics
  - C - You should be an expert the language you are using
  	- Beginner - http://in28minutes.teachable.com/p/c-tutorial-for-beginners
