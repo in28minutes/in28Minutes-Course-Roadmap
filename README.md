@@ -1,5 +1,7 @@
 # in28Minutes Course Roadmap
 
+![In28MinutesCourseRoadMap-May2017.png](In28MinutesCourseRoadMap-May2017.png)
+
 ## Basics
  - C - You should be an expert the language you are using
  	- Beginner - http://in28minutes.teachable.com/p/c-tutorial-for-beginners
