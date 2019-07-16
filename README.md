@@ -1,6 +1,6 @@
 # in28Minutes Learning Roadmap
 
-![in28MinutesLearningRoadmap-July2019.png](In28MinutesCourseRoadMap-Junly2019.png)
+![in28MinutesLearningRoadmap-July2019.png](in28MinutesLearningRoadmap-July2019.png)
 
 ## My Views - Updated July 2019
 - Architectures are heading towards Microservices and Cloud!
