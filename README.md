@@ -2,6 +2,8 @@
 
 ![in28MinutesLearningRoadmap-July2019.png](in28MinutesLearningRoadmap-July2019.png)
 
+Learn Page - https://github.com/in28minutes/learn#best-selling-courses
+
 ## My Views - Updated July 2019
 - Architectures are heading towards Microservices and Cloud!
 - Spring Boot is the most popular framework for developing Microservices
