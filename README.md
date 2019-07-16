@@ -1,6 +1,6 @@
 # in28Minutes Learning Roadmap
 
-![In28MinutesCourseRoadMap-May2017.png](In28MinutesCourseRoadMap-May2017.png)
+![in28MinutesLearningRoadmap-July2019.png](In28MinutesCourseRoadMap-Junly2019.png)
 
 ## My Views - Updated July 2019
 - Architectures are heading towards Microservices and Cloud!
@@ -75,6 +75,8 @@
 
 
 ## My Views - Updated May 2017
+
+![In28MinutesCourseRoadMap-May2017.png](In28MinutesCourseRoadMap-May2017.png)
 - Architectures are heading towards Microservices!
 - Anybody who wants to develop web applications with Java must learn Spring & Spring MVC. They are most used frameworks in the Java world today.
 - Spring Boot is the most popular framework for developing Microservices
